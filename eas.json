@@ -1,0 +1,8 @@
+{
+  "cli": { "version": ">= 7.0.0" },
+  "build": {
+    "apk": {
+      "android": { "buildType": "apk" }
+    }
+  }
+}

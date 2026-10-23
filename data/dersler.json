@@ -1,0 +1,42 @@
+{
+  "dersler": [
+    {
+      "id": "edebi̇yat_1",
+      "ad": "Edebi̇yat 1",
+      "dosya": "EDEBİYAT_1.PDF",
+      "uniteler": [
+        {
+          "no": 1,
+          "baslik": ": Edebiyat ve Toplum",
+          "ozet": ": Edebiyat ve Toplum Edebiyat toplumun aynasıdır. Dil ve anlatım edebiyatın temel ögeleridir. Divan edebiyatı halk edebiyatından farklı özellikler taşır.",
+          "icerik": ": Edebiyat ve Toplum\nEdebiyat toplumun aynasıdır. Dil ve anlatım edebiyatın temel ögeleridir.\nDivan edebiyatı halk edebiyatından farklı özellikler taşır.\nÜNİTE SONU DEĞERLENDİRME SORULARI\n1. Edebiyat toplumun ne olarak nitelenir?\nA) Aynası\nB) Arşivi\nC) Haritası\nD) Defteri\n2. Divan edebiyatının dili hangisidir?\nA) Halk dili\nB) Ağır Osmanlı Türkçesi\nC) Arapça karma\nD) Basit Türkçe\nCEVAP ANAHTARI\n1) A  2) B",
+          "soru_sayisi": 0,
+          "sorular": []
+        }
+      ]
+    },
+    {
+      "id": "tari̇h_1",
+      "ad": "Tari̇h 1",
+      "dosya": "TARİH_1.PDF",
+      "uniteler": [
+        {
+          "no": 1,
+          "baslik": ": Tarihin Konusu ve Kaynakları",
+          "ozet": ": Tarihin Konusu ve Kaynakları Tarih, insanlık tarihini inceler. Tarih olayları neden-sonuç ilişkisi içinde inceler. İlk ve orta çağlarda tarih yazıcılığı gelişti.",
+          "icerik": ": Tarihin Konusu ve Kaynakları\nTarih, insanlık tarihini inceler. Tarih olayları neden-sonuç ilişkisi içinde inceler.\nİlk ve orta çağlarda tarih yazıcılığı gelişti. Herodot tarihin babası sayılır.\nTarih kaynakları; yazılı kaynaklar, sözlü kaynaklar ve arkeolojik kaynaklardır.\nTarih bilimi toplumların kimliğini korumasına yardımcı olur.\nÜNİTE SONU DEĞERLENDİRME SORULARI\n1. Tarih biliminin temel kaynakları aşağıdakilerden hangisi değildir?\nA) Yazılı kaynaklar\nB) Sözlü kaynaklar\nC) Rüya tabirleri\nD) Arkeolojik kaynaklar\n2. Herodot hangi alanda bilinen ilk yazarlardandır?\nA) Felsefe\nB) Tarih\nC) Astronomi\nD) Tıp\n3. Tarih olayları hangi ilişki içinde inceler?\nA) Neden-sonuç\nB) Rastgele\nC) Sadece kronolojik\nD) Sadece ekonomik\n4. Arkeolojik kaynaklara örnek olarak hangisi verilebilir?\nA) Destan\nB) Kitabe\nC) Mektup\nD) Anı\nCEVAP ANAHTARI\n1) C  2) B  3) A  4) B",
+          "soru_sayisi": 0,
+          "sorular": []
+        },
+        {
+          "no": 2,
+          "baslik": ": İslamiyet Öncesi Türk Tarihi",
+          "ozet": ": İslamiyet Öncesi Türk Tarihi Türklerin ilk yerleşim bölgeleri Orta Asya'dır. Orhun yazıtları önemli kaynaklardır. Göktürkler, Uygurlar ve Karahanlılar Türk tarihinin önemli devletleridir.",
+          "icerik": ": İslamiyet Öncesi Türk Tarihi\nTürklerin ilk yerleşim bölgeleri Orta Asya'dır. Orhun yazıtları önemli kaynaklardır.\nGöktürkler, Uygurlar ve Karahanlılar Türk tarihinin önemli devletleridir.\nİslamiyet öncesi Türklerde göçebe hayat tarzı hüküm sürmüştür.\nÜNİTE SONU DEĞERLENDİRME SORULARI\n1. Orhun yazıtları hangi döneme aittir?\nA) Göktürk\nB) Selçuklu\nC) Osmanlı\nD) Cumhuriyet\n2. Türklerin ilk yerleşim bölgesi neresidir?\nA) Anadolu\nB) Orta Asya\nC) Kırım\nD) Hindistan\nCEVAP ANAHTARI\n1) A  2) B",
+          "soru_sayisi": 0,
+          "sorular": []
+        }
+      ]
+    }
+  ]
+}

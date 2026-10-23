@@ -1,5 +1,8 @@
 # AÖL Ödevim — Açık Öğretim Lisesi Ödev & Test Uygulaması
 
+> **GitHub Deposu:** https://github.com/M93hasan/ders
+> Sorun bildirimi, öneri ve katkı için pull request açabilirsiniz.
+
 PDF ders kitaplarını interaktif ödev ve test uygulamasına dönüştüren,
 internetsiz çalışan React Native (Expo) Android uygulaması.
 
